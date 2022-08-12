@@ -1,0 +1,7 @@
+ 		Product Detail Portal 
+
+
+jsp files - stdNames.jsp , addstdNames.jsp
+
+
+Enter Product Name and then Using two jsp files to show store data and display in the screen without using any database.

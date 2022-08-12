@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Product Details Portal</title>
+</head>
+<h1>Product Detail Portal</h1>
+<hr>
+<body>
+<form action="addStdNames.jsp" method="post">
+	<label>Enter Product Name</label>
+	<input type="text" name="prodName"><br/>
+	<input type="submit" value="submit">
+	<input type="reset" value="reset">
+</form>
+</body>
+</html>
